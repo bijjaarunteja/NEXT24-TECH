@@ -1,15 +1,10 @@
-Sure, here's a simple and non-technical README for Next24Tech:
-
----
-
 Next24Tech
 
-Welcome to Next24Tech! We're thrilled to have you here.
+Welcome
 
-About Us
+
 Next24Tech is a cutting-edge technology company dedicated to making your daily life easier and more efficient. Our mission is to harness the power of innovation and technology to solve everyday problems and enhance the way you live, work, and play.
 
-What We Do
 At Next24Tech, we focus on creating user-friendly solutions in various fields such as:
 
 Smart Home Devices: Transforming your home into a smart, interconnected ecosystem.
